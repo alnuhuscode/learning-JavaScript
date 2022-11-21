@@ -1,4 +1,4 @@
-# learning-JavaScript
+# JavaScript
 
 JavaScript is widely used in the modern software development industry. 
 It serves as the cornerstone of front-end web development and is a crucial 
